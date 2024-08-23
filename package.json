@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/native-stack": "^6.11.0",
+    "react-router-dom": "^6.26.1",
+    "react-transition-group": "^4.4.5"
+  }
+}
