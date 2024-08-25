@@ -77,7 +77,7 @@ const ContactPage = () => {
 
     {/* Main Section */}
     <section className="flex flex-col items-center justify-center min-h-screen text-center px-4">
-      <div className="max-w-7xl mx-auto flex flex-col lg:flex-row justify-between items-center">
+      <div className="max-w-7xl mx-auto flex flex-col  justify-between items-center">
         {/* Get in Touch Section */}
         {motion && (
           <motion.div
