@@ -6,7 +6,7 @@ import { refreshToken } from '../Redux/userRedux';
 import {store} from '../app/store';
 
 
-const BASEURL="http://localhost:3014/api/v1";
+const BASEURL="https://ecova-mobile-app.onrender.com/api/v1";
 
 
 const axiosInstance=axios.create();
